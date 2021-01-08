@@ -15,27 +15,39 @@ This is not legal advice, just a bunch of pointers/summaries.
 ** [[https://prosperitylicense.com/][Prosperity Public License]]
 * Projects
 ** [[https://comrad.app/][Comrad]]
-License: Anti-capitalist License
-Stack: Python
+
 
 A socialist network: encrypted, insurveillable, unmontizeable, and
-self-governing.
+self-governing
+
+*License*: Anti-capitalist License
+
+*Stack*: Python
 ** [[https://gitlab.com/cal-coop/netfarm/netfarm][Netfarm]]
-License: Cooperative Software License
-Stack: Common Lisp
 
-a[n attempt at creating a] replicated object system.
+An attempt at creating a replicated object system
+
+*License*: Cooperative Software License
+
+*Stack*: Common Lisp
+
 ** [[https://github.com/breadsystems/rtc-care-schedule][RTC Care Schedule]]
-License: Anti-capitalist License
-Stack: Clojure
 
-Calendar and scheduling system for the Radical Telehealth Collective.
+Calendar and scheduling system for the Radical Telehealth Collective
+
+*License*: Anti-capitalist License
+
+*Stack*: Clojure
+
 ** [[https://togethernet.cargo.site/][Togethernet]]
-License: Anti-capitalist License
-Stack: Node.js
 
 Open-source communication software designed around the ethos of transparency and
-consent.
+consent
+
+*License*: Anti-capitalist License
+
+*Stack*: Node.js
+
 * Articles
 ** Freedom isn't Free (Wendy Liu, Logic Mag, 2018)
 https://logicmag.io/failure/freedom-isnt-free/

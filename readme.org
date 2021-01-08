@@ -7,9 +7,34 @@ have stronger contribution requirements than Aferro GPL. (Parity Public License)
 
 This is not legal advice, just a bunch of pointers/summaries.
 * Licenses
-** [[https://anticapitalist.software/][Anticapitalist License]]
+** [[https://anticapitalist.software/][Anti-capitalist License]]
+** [[https://lynnesbian.space/csl/][Cooperative Software License]]
 ** [[https://wiki.coopcycle.org/en:license][Coopyleft License]]
 ** [[https://fair.io/][Fair Source License]]
 ** [[https://paritylicense.com/][Parity Public License]]
 ** [[https://prosperitylicense.com/][Prosperity Public License]]
 * Projects
+** [[https://comrad.app/][Comrad]]
+License: Anti-capitalist License
+Stack: Python
+
+A socialist network: encrypted, insurveillable, unmontizeable, and
+self-governing.
+** [[https://github.com/breadsystems/rtc-care-schedule][RTC Care Schedule]]
+License: Anti-capitalist License
+Stack: Clojure
+
+Calendar and scheduling system for the Radical Telehealth Collective
+** [[https://togethernet.cargo.site/][Togethernet]]
+License: Anti-capitalist License
+Stack: Node.js
+
+Open-source communication software designed around the ethos of transparency and
+consent.
+* Articles
+** Freedom isn't Free (Wendy Liu, Logic Mag, 2018)
+https://logicmag.io/failure/freedom-isnt-free/
+** Post-Open Source (Melody Horn)
+https://www.boringcactus.com/2020/08/13/post-open-source.html
+** Telekommunist Manifesto, The (Dmytri Kleiner, Institute of Network Cultures, 2010)
+http://telekommunisten.net/the-telekommunist-manifesto/

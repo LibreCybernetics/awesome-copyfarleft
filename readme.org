@@ -20,11 +20,16 @@ Stack: Python
 
 A socialist network: encrypted, insurveillable, unmontizeable, and
 self-governing.
+** [[https://gitlab.com/cal-coop/netfarm/netfarm][Netfarm]]
+License: Cooperative Software License
+Stack: Common Lisp
+
+a[n attempt at creating a] replicated object system.
 ** [[https://github.com/breadsystems/rtc-care-schedule][RTC Care Schedule]]
 License: Anti-capitalist License
 Stack: Clojure
 
-Calendar and scheduling system for the Radical Telehealth Collective
+Calendar and scheduling system for the Radical Telehealth Collective.
 ** [[https://togethernet.cargo.site/][Togethernet]]
 License: Anti-capitalist License
 Stack: Node.js
@@ -34,7 +39,9 @@ consent.
 * Articles
 ** Freedom isn't Free (Wendy Liu, Logic Mag, 2018)
 https://logicmag.io/failure/freedom-isnt-free/
-** Post-Open Source (Melody Horn)
+** Post-Open Source (Melody Horn, 2020)
 https://www.boringcactus.com/2020/08/13/post-open-source.html
+** Software and Anarchy (Gnuxie Lulamoon and Hayley Patton, Cooperative of Applied Language, Draft)
+https://gitlab.com/cal-coop/software-anarchy/
 ** Telekommunist Manifesto, The (Dmytri Kleiner, Institute of Network Cultures, 2010)
 http://telekommunisten.net/the-telekommunist-manifesto/

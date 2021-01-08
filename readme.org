@@ -13,6 +13,7 @@ This is not legal advice, just a bunch of pointers/summaries.
 ** [[https://fair.io/][Fair Source License]]
 ** [[https://paritylicense.com/][Parity Public License]]
 ** [[https://prosperitylicense.com/][Prosperity Public License]]
+** [[http://wiki.p2pfoundation.net/Peer_Production_License][Peer Production License]]
 * Projects
 ** [[https://comrad.app/][Comrad]]
 License: Anti-capitalist License

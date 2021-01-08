@@ -1,0 +1,15 @@
+* Introduction
+These licenses and projects have stronger restrictions regarding privative
+for-profit usage but still give _individuals_ the 4-freedoms of Free Software.
+
+The licenses may restrict by entity type (Anticapitalist License / CoopyLeft) or
+have stronger contribution requirements than Aferro GPL. (Parity Public License)
+
+This is not legal advice, just a bunch of pointers/summaries.
+* Licenses
+** [[https://anticapitalist.software/][Anticapitalist License]]
+** [[https://wiki.coopcycle.org/en:license][Coopyleft License]]
+** [[https://fair.io/][Fair Source License]]
+** [[https://paritylicense.com/][Parity Public License]]
+** [[https://prosperitylicense.com/][Prosperity Public License]]
+* Projects

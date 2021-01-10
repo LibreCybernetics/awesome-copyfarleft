@@ -7,7 +7,7 @@ have stronger contribution requirements than Aferro GPL. (Parity Public License)
 
 This is not legal advice, just a bunch of pointers/summaries.
 * Licenses
-** [[https://anticapitalist.software/][Anti-capitalist License]]
+** [[https://anticapitalist.software/][Anti-Capitalist Software License]]
 ** [[https://lynnesbian.space/csl/][Cooperative Software License]]
 ** [[https://wiki.coopcycle.org/en:license][Coopyleft License]]
 ** [[https://fair.io/][Fair Source License]]
@@ -22,7 +22,7 @@ Smart contracts and high level API powering the Agreements Network.
 A socialist network: encrypted, insurveillable, unmontizeable, and
 self-governing.
 
-- *License*: Anti-capitalist License
+- *License*: Anti-Capitalist Software License
 - *Stack*: Python
 ** [[https://github.com/coopcycle][CoopCycle]]
 Logistics & marketplace platform. Only for worker-owned business.
@@ -42,13 +42,13 @@ a[n attempt at creating a] replicated object system.
 ** [[https://github.com/breadsystems/rtc-care-schedule][RTC Care Schedule]]
 Calendar and scheduling system for the Radical Telehealth Collective.
 
-- *License*: Anti-capitalist License
+- *License*: Anti-Capitalist Software License
 - *Stack*: Clojure
 ** [[https://togethernet.cargo.site/][Togethernet]]
 Open-source communication software designed around the ethos of transparency and
 consent.
 
-- *License*: Anti-capitalist License
+- *License*: Anti-Capitalist Software License
 - *Stack*: Node.js
 * Articles
 ** Freedom isn't Free (Wendy Liu, Logic Mag, 2018)

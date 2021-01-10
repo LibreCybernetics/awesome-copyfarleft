@@ -12,7 +12,6 @@ This is not legal advice, just a bunch of pointers/summaries.
 ** [[https://wiki.coopcycle.org/en:license][Coopyleft License]]
 ** [[https://fair.io/][Fair Source License]]
 ** [[https://paritylicense.com/][Parity Public License]]
-** [[https://prosperitylicense.com/][Prosperity Public License]]
 * Projects
 ** [[https://comrad.app/][Comrad]]
 A socialist network: encrypted, insurveillable, unmontizeable, and

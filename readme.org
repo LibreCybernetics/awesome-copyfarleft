@@ -19,7 +19,11 @@ self-governing.
 
 - *License*: Anti-capitalist License
 - *Stack*: Python
+** [[https://github.com/coopcycle][CoopCycle]]
+Logistics & marketplace platform. Only for worker-owned business.
 
+- *License*: Coopyleft License
+- *Stack*: JavaScript, PHP
 ** [[https://gitlab.com/cal-coop/netfarm/netfarm][Netfarm]]
 a[n attempt at creating a] replicated object system.
 

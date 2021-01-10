@@ -13,6 +13,11 @@ This is not legal advice, just a bunch of pointers/summaries.
 ** [[https://fair.io/][Fair Source License]]
 ** [[https://paritylicense.com/][Parity Public License]]
 * Projects
+** [[https://github.com/agreements-network/blackstone][Blackstone]]
+Smart contracts and high level API powering the Agreements Network.
+
+- *License*: Parity Public License
+- *Stack*: Solidity, TypeScript
 ** [[https://comrad.app/][Comrad]]
 A socialist network: encrypted, insurveillable, unmontizeable, and
 self-governing.
@@ -24,6 +29,11 @@ Logistics & marketplace platform. Only for worker-owned business.
 
 - *License*: Coopyleft License
 - *Stack*: JavaScript, PHP
+** [[https://github.com/peermaps/eyros][Eyros]]
+Multi-dimensional spatial database.
+
+- *License*: Parity Public License
+- *Stack*: JavaScript, Rust
 ** [[https://gitlab.com/cal-coop/netfarm/netfarm][Netfarm]]
 a[n attempt at creating a] replicated object system.
 

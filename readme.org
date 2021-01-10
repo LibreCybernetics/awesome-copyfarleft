@@ -43,6 +43,8 @@ consent.
 * Articles
 ** Freedom isn't Free (Wendy Liu, Logic Mag, 2018)
 https://logicmag.io/failure/freedom-isnt-free/
+** Original Sin of Free Software, The (Daniel Goldsmith, 2019)
+https://lipu.dgold.eu/original-sin.html
 ** Post-Open Source (Melody Horn, 2020)
 https://www.boringcactus.com/2020/08/13/post-open-source.html
 ** Software and Anarchy (Gnuxie Lulamoon and Hayley Patton, Cooperative of Applied Language, Draft)

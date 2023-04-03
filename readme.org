@@ -13,37 +13,55 @@ This is not legal advice, just a bunch of pointers/summaries.
 ** [[https://fair.io/][Fair Source License]]
 ** [[https://paritylicense.com/][Parity Public License]]
 * Projects
+
 ** [[https://github.com/agreements-network/blackstone][Blackstone]]
 Smart contracts and high level API powering the Agreements Network.
 
 - *License*: Parity Public License
 - *Stack*: Solidity, TypeScript
-** [[https://comrad.app/][Comrad]]
-A socialist network: encrypted, insurveillable, unmontizeable, and
-self-governing.
 
-- *License*: Anti-Capitalist Software License
-- *Stack*: Python
 ** [[https://github.com/coopcycle][CoopCycle]]
 Logistics & marketplace platform. Only for worker-owned business.
 
 - *License*: Coopyleft License
 - *Stack*: JavaScript, PHP
+
 ** [[https://github.com/peermaps/eyros][Eyros]]
 Multi-dimensional spatial database.
 
 - *License*: Parity Public License
 - *Stack*: JavaScript, Rust
+
 ** [[https://gitlab.com/cal-coop/netfarm/netfarm][Netfarm]]
 a[n attempt at creating a] replicated object system.
 
 - *License*: Cooperative Software License
 - *Stack*: Common Lisp
+
+** [[https://github.com/CreativeInquiry/PEmbroider][PEmbroider]]
+Embroidery Library for Processing 
+
+- *License*: Anti-Capitalist Software License
+- *Stack*: Java, Processing
+
+** [[https://github.com/frewsxcv/rgis][rgis]]
+Geospatial data viewer written in Rust. Availble on the web (rgis.app) or natively on desktop.
+
+- *License*: Anti-Capitalist Software License
+- *Stack*: Rust
+
 ** [[https://github.com/breadsystems/rtc-care-schedule][RTC Care Schedule]]
 Calendar and scheduling system for the Radical Telehealth Collective.
 
 - *License*: Anti-Capitalist Software License
 - *Stack*: Clojure
+
+** [[https://github.com/FluidNumerics/SELF][Spectral Element Libraries in Fortran (SELF)]]
+SELF is an object-oriented Fortran library that support the implementation of Spectral Element Methods for solving partial differential equations.
+
+- *License*: Anti-Capitalist Software License
+- *Stack*: Fortran
+
 ** [[https://togethernet.cargo.site/][Togethernet]]
 Open-source communication software designed around the ethos of transparency and
 consent.

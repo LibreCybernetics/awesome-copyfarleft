@@ -68,6 +68,7 @@ consent.
 
 - *License*: Anti-Capitalist Software License
 - *Stack*: Node.js
+
 * Articles
 ** Freedom isn't Free (Wendy Liu, Logic Mag, 2018)
 https://logicmag.io/failure/freedom-isnt-free/
@@ -75,6 +76,8 @@ https://logicmag.io/failure/freedom-isnt-free/
 https://lipu.dgold.eu/original-sin.html
 ** Post-Open Source (Melody Horn, 2020)
 https://www.boringcactus.com/2020/08/13/post-open-source.html
+** poverty of "post-open source", The (Gnuxie Lulamoon and Hayley Patton, Cooperative of Applied Language, 2021)
+https://applied-langua.ge/posts/the-poverty-of-post-open-source.html
 ** Software and Anarchy (Gnuxie Lulamoon and Hayley Patton, Cooperative of Applied Language, Draft)
 https://gitlab.com/cal-coop/software-anarchy/
 ** Telekommunist Manifesto, The (Dmytri Kleiner, Institute of Network Cultures, 2010)
